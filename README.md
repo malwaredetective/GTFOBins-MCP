@@ -41,6 +41,8 @@ pip install -r requirements.txt
 
 > Note: When executing the MCP server from within a Python Virtual Environment, the startup command may differ depending on your Operating System.
 
+## MCP Tools
+
 ### list_binaries
 Return a list of all unix binaries found within GTFOBins.
 
