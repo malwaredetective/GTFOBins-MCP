@@ -1,0 +1,15 @@
+
+// An example code snippit of the local MCP configuration file for this server.
+
+{
+  "mcpServers": {
+    "gtfobins-mcp": {
+      "command": "C:\\Users\\malwaredetective\\source\\repos\\GTFOBins-MCP\\venv\\Scripts\\python.exe",
+      "args": [
+        "C:\\Users\\malwaredetective\\source\\repos\\GTFOBins-MCP\\gtfobins-mcp-server.py"
+      ],
+      "isActive": true,
+      "approvalPolicy": "always"
+    }
+  }
+}
